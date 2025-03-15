@@ -7,7 +7,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'TechVJBot')
 API_ID = int(environ.get('API_ID', '7851526'))
 API_HASH = environ.get('API_HASH', '93ba4db0ad662e558356871afe8ca6de')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7750556789:AAFq2Z0Ucoc-U2YfxkMsdE3z_mm7PYAgAYU")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7594684546:AAGghyZIFXDar-mh56hVYJ0ys2ors1oENMk")
 
 # Bot settings
 PORT = environ.get("PORT", "8080")
